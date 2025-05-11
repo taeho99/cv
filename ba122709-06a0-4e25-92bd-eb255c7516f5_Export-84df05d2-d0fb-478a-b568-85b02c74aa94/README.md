@@ -2,7 +2,7 @@
 
 ### #아이디어를_코드로 #낭만을_담는_개발자
 
-![profile.jpg](profile.jpg)
+<img src="./profile.jpg" width="150" height="195"/>
 
 ## Contact
 
